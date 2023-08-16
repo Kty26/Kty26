@@ -1,10 +1,8 @@
+<div id="header" align="center"> 
+<img src="https://cdn.pixabay.com/photo/2023/08/16/07/53/07-53-42-171_1280.png" width= "300" />
+<img src="https://media.giphy.com/media/dvofz84WenMYbAX0ri/giphy.gif"  />
 
-
-<div id="header" align="center> 
-
-<img src= "https://media.giphy.com/media/dvofz84WenMYbAX0ri/giphy.gif" width="1080" />
-
-  <h1 align= "center" > Hi there 👋I am Kattia Idalia Contreras!</h1> 
+ 
   </div>
 
 
